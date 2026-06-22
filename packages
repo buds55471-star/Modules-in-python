@@ -1,0 +1,120 @@
+mypackage/
+│
+├── __init__.py
+├── math_operations.py
+├── string_operations.py
+
+Easy Level
+Q1
+
+Write a program to display the current date and time.
+
+Expected Output Example
+
+2026-06-11 15:30:45
+Q2
+
+Write a program to print:
+
+Current Year
+Current Month
+Current Day
+
+Using datetime.now().
+
+Q3
+
+Create a date object for your birthday and print it.
+
+Example:
+
+2005-08-15
+Q4
+
+Print today's date in the format:
+
+11-06-2026
+
+(Hint: strftime())
+
+Q5
+
+Find the current weekday name.
+
+Example:
+
+Thursday
+Medium Level
+Q6
+
+Calculate the number of days between:
+
+01-01-2026
+and
+11-06-2026
+Q7
+
+Ask the user for a birth year and calculate their age.
+
+Example:
+
+Enter Birth Year: 2005
+
+Age = 21
+Q8
+
+Print the date after 30 days from today.
+
+(Hint: timedelta(days=30))
+
+Q9
+
+Print the date before 15 days from today.
+
+Q10
+
+Find how many days are left until New Year.
+
+Example:
+
+Days Left: 203
+Hard Level
+Q11
+
+Calculate exact age in:
+
+Years
+Months
+Days
+
+Input:
+
+DOB: 15-08-2005
+
+Output:
+
+20 Years 9 Months 27 Days
+Q12
+
+Create a countdown program showing days remaining until your next birthday.
+
+Q13
+
+Determine whether a person's age is above 18 using date comparison.
+
+Q14
+
+Generate all Sundays of the current month.
+
+Example:
+
+01-06-2026
+08-06-2026
+15-06-2026
+...
+Q15
+
+Find the number of weekends between two dates.
+
+Part 2: Time Module Questions
+Easy Level
